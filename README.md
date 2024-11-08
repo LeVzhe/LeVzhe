@@ -3,7 +3,6 @@
 ### Contacts:
 
 [![Gmail Badge](https://img.shields.io/badge/-levzh93@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:levzh93@gmail.com)](mailto:levzh93@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Siarhei--Zaluzhny-881887146?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D0%B7%D0%B0%D0%BB%D1%83%D0%B6%D0%BD%D1%8B%D0%B9-881887146/)][linkedin]
 
 
 ### 💻 Tech Stack:
