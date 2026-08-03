@@ -1,7 +1,7 @@
 ## Hi there! My name is Siarhei! I'm a back-end developer.
 
-Backend-разработчик с фокусом на API, интеграции и AI-модули.
-Проектирую надёжные серверные сервисы, слой обмена с внешними системами и обвязку вокруг ML/AI.
+Backend developer focused on APIs, integrations, and AI modules.  
+I design reliable server-side services, integration layers with external systems, and the surrounding infrastructure for ML/AI.
 
 ### Contacts:
 
@@ -11,11 +11,11 @@ Backend-разработчик с фокусом на API, интеграции 
 
 ### About me
 
-- Проектирую и развиваю REST API для enterprise-систем
-- Строю слой интеграций с внешними ERP / POS / складскими / аналитическими сервисами
-- Подключаю ML/AI-модули: датасеты, обучение моделей, инференс, управление жизненным циклом моделей
-- Реализую фоновые и асинхронные пайплайны (очереди, планировщики, ретраи)
-- Следую чистой архитектуре: **View → Service → Repository + DTO**
+- Design and evolve REST APIs for enterprise systems
+- Build integration layers with external ERP / POS / warehouse / analytics services
+- Connect ML/AI modules: datasets, model training, inference, and model lifecycle management
+- Implement background and asynchronous pipelines (queues, schedulers, retries)
+- Follow clean architecture: **View → Service → Repository + DTO**
 
 ---
 
@@ -59,13 +59,13 @@ Backend-разработчик с фокусом на API, интеграции 
 
 ### What I work with
 
-- REST API на **Django + DRF** и **FastAPI + SQLAlchemy**
-- Интеграции со сторонними системами: ERP, POS, склад, BI, AI-сервисы
-- AI-обвязка: подготовка данных, запуск обучения, prediction, мониторинг статуса моделей
-- Объектные хранилища (**S3-compatible**): загрузка, раздача и жизненный цикл медиа
-- Фоновые задачи на **Celery + Redis**: синхронизации, отчёты, отложенные пайплайны
-- Отчётность и парсинг данных: Excel / PDF
-- Наблюдаемость (**Sentry**) и API-документация (**OpenAPI / Swagger**)
+- REST APIs with **Django + DRF** and **FastAPI + SQLAlchemy**
+- Integrations with third-party systems: ERP, POS, warehouse, BI, AI services
+- AI orchestration: data preparation, training runs, prediction, model status monitoring
+- Object storage (**S3-compatible**): upload, delivery, and media lifecycle
+- Background jobs with **Celery + Redis**: syncs, reports, deferred pipelines
+- Reporting and data parsing: Excel / PDF
+- Observability (**Sentry**) and API documentation (**OpenAPI / Swagger**)
 
 ---
 
@@ -73,16 +73,16 @@ Backend-разработчик с фокусом на API, интеграции 
 
 | Area | Focus |
 |------|--------|
-| API design | контракты, DTO, валидация, OpenAPI |
-| Integrations | SDK/клиенты к внешним сервисам |
-| Background jobs | очереди, ретраи, расписания |
-| Data processing | парсинг, отчёты, контроль качества данных |
+| API design | contracts, DTOs, validation, OpenAPI |
+| Integrations | SDKs/clients for external services |
+| Background jobs | queues, retries, schedules |
+| Data processing | parsing, reports, data quality control |
 | DX | Poetry, pre-commit, pytest, mypy, ruff |
 
 ---
 
 ### Let's keep in touch!
 
-Открыт к интересным backend-задачам: API, интеграции, AI-обвязка и высоконагруженные сервисы.
+Open to interesting backend work: APIs, integrations, AI orchestration, and high-load services.
 
 [![Gmail](https://img.shields.io/badge/Email-levzh93@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levzh93@gmail.com)
